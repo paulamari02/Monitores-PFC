@@ -49,14 +49,21 @@ El motor de bases de datos usado es `MySql`. Las razones de su elección son las
 ## 4. Diseño de la aplicación
 <a name="tablas"></a>	
 ### Tablas de la bases de datos 
+![Texto alternativo](imagenes/baseDatos.jpg)
 <a name="mockup"></a>	
 ### Mockup
 Se realizó una representación en forma de dibujo, es decir prototipo visual estático, de cómo será el diseño final del producto. De esta manera conseguimos una idea clara de cómo se verá y se comportará la interfaz de usuario final, lo que nos permite hacer cambios y mejoras antes de comenzar el proceso de desarrollo. 
 Como en nuestra web se van a repetir muchas de las pantallas con el mismo diseño pero con diferentes datos solo se ha realizado las páginas principales de una manera generalizada.
+
+![Texto alternativo](imagenes/mockup.png)
+![Texto alternativo](imagenes/mockup01.png)
+![Texto alternativo](imagenes/mockup02.png)
 <a name="arquitectura"></a>	
 ### Arquitectura web
 Hemos utilizado un modelo de navegación radial como eje central la home page que constará de un menú con todos los monitores disponibles. Todo gira en torno a ella. El usuario aterriza en la home y, desde ella, puede visitar un monitor o otro. Pero si quiere moverse de un monitor a otro debe volver a la home y seleccionarlo desde ahí.
-Se pretende realizar en un futuro un inicio de sesión para los usuarios que se enlazará a este modelo de una manera lineal con el menú.
+Se pretende realizar en un futuro un inicio de sesión para los usuarios que se enlazará a este modelo de una manera lineal con el menú. 
+
+![Texto alternativo](imagenes/estructuraWeb.jpg)
 
 <a name="estructura"></a>	
 ## 5. Estructura de la aplicación
