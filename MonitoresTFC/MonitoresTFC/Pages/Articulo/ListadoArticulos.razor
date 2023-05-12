@@ -1,0 +1,87 @@
+﻿@page "/listadoArticulos"
+@inject IRepository rep
+@inject IJSRuntime JsInterop
+@inject NavigationManager Nav
+
+<MonitorsHeader Title="Monitores" Title2="LISTADO ARTICULOS"></MonitorsHeader>
+
+<div class="container-fluid mx-3 overflow-hidden">
+    <div class="row">
+        <div class="col-10">
+            <button onclick="@GoMenu" type="button" class="btn btn-secondary" title="Volver al menú">
+                <i class="fa-solid fa-bars fa-lg"></i>
+            </button>
+            <button onclick="@NewArticulo" type="button" class="btn btn-secondary" title="Añadir artículo">
+                <i class="fa-solid fa-plus fa-lg"></i>
+            </button>
+            <button onclick="@ExportAllPages" type="button" class="btn btn-secondary" title="Exportar en xlsx">
+                <i class="fa-solid fa-file-arrow-down fa-lg"></i>
+            </button>
+            <label class="ml-2">
+                @Missatge
+            </label>
+            
+
+            
+            
+        </div>
+        <div class="col-2">
+            <div class="input-group rounded buscador">
+                <input id="Search" @bind-value="@SearchText" @oninput="@((e)=>FilterListArticulos(e))" type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid mt-4 overflow-hidden">
+    <div class="row">
+        <div class="col-12">
+            <table class="table mx-3"
+                   id="table"
+                   data-filter-control="true"
+                   data-show-search-clear-button="true">
+                <thead>
+                    <tr class="text-center align-middle">
+                        <th class="invisible">Id</th>
+                        <th data-filter-control="input">Artículo</th>
+                        <th>Código Artículo</th>
+                        <th>Proveedor</th>
+                        <th>Estado</th>
+                        <th>Observaciones</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <ModalDialog Title="Borrar artículo" OnDelete="DeleteContact" @ref="ModalDialogs"></ModalDialog>
+                    @foreach (var item in PaginatedListArticulos)
+                    {
+                        <tr class="text-center align-middle">
+                            <td class="invisible">@item.IdArticulo</td>
+                            <td>@item.Articulo</td>
+                            <td>@item.CodArticulo</td>
+                            <td>@item.Proveedor</td>
+                            <td>@item.Status</td>
+                            <td>@item.Observaciones</td>
+                            <td>
+                                <button class="btn btn-secondary m-1" title="Editar artículo" @onclick="() => UpdateArticulo(item.IdArticulo)"><i class="fa-solid fa-file-pen fa-lg"></i></button>
+                                <button class="btn btn-danger m-1" title="Borrar artículo" @onclick="@(()=>OnConfirmDelete(item.Articulo, item.IdArticulo))"><i class="fa-solid fa-trash-can fa-lg"></i></button>
+                                
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <nav aria-label="Page navigation" class="m-4">
+                <ul class="pagination justify-content-center">
+                    @for (int i = 1; i <= TotalPages; i++)
+                    {
+                        var pageNumber = i;
+                        <li class="page-item @(pageNumber == PageIndex ? "active" : "")">
+                            <button class=" btn btn-secondary m-1" @onclick="(() => ChangePage(pageNumber))">@pageNumber</button>
+                        </li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>

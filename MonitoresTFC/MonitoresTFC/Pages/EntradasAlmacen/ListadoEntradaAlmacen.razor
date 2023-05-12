@@ -1,0 +1,86 @@
+﻿@page "/listadoEntradaAlmacen"
+@inject IRepository rep
+@inject IJSRuntime JsInterop
+@inject NavigationManager Nav
+
+<MonitorsHeader Title="Monitores" Title2="LISTADO ENTRADAS ALMACÉN"></MonitorsHeader>
+
+<div class="container-fluid mx-3 overflow-hidden">
+    <div class="row">
+        <div class="col-10">
+            <button onclick="@GoMenu" type="button" class="btn btn-secondary" title="Volver al menú">
+                <i class="fa-solid fa-bars fa-lg"></i>
+            </button>
+            <button onclick="@NewEntrada" type="button" class="btn btn-secondary" title="Añadir entrada">
+                <i class="fa-solid fa-plus"></i>
+            </button>
+            <button onclick="@ExportAllPages" type="button" class="btn btn-secondary" title="Exportar a xlsx">
+                <i class="fa-solid fa-file-arrow-down fa-lg"></i>
+            </button>
+            <label class="ml-1">
+                @Missatge
+            </label>
+        </div>
+        <div class="col-2">
+            <div class="input-group rounded buscador">
+                <input id="Search" @bind-value="@SearchText" @oninput="@((e)=>FilterListEntrada(e))" type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid mt-4 overflow-hidden">
+    <div class="row">
+        <div class="col-12">
+            <table class="table mx-3"
+                   id="table"
+                   data-filter-control="true"
+                   data-show-search-clear-button="true">
+                <thead>
+                    <tr class="text-center align-middle">
+                        <th class="invisible">Id</th>
+                        <th data-filter-control="input">Albarán</th>
+                        <th>Fecha Salida</th>
+                        <th>Fecha Tránsito</th>
+                        <th>Proveedor</th>
+                        <th>Estado</th>
+                        <th>Cantidad</th>
+                        <th>Bultos</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <ModalDialog Title="Borrar entrada" OnDelete="DeleteContact" @ref="ModalDialogs"></ModalDialog>
+                    @foreach (var item in PaginatedListEntrada)
+                    {
+                        <tr class="text-center align-middle">
+                            <td class="invisible">@item.IdEntrada</td>
+                            <td>@item.Albaran</td>
+                            <td>@item.FechaEntrada</td>
+                            <td>@item.FechaTransito</td>
+                            <td>@item.Proveedor</td>
+                            <td>@item.Estado</td>
+                            <td>@item.Cantidad</td>
+                            <td>@item.Bultos</td>
+                            <td>
+                                <button class="btn btn-secondary m-1" title="Editar entrada" @onclick="() => UpdateEntrada(item.IdEntrada)"><i class="fa-solid fa-file-pen fa-lg"></i></button>
+                                <button class="btn btn-danger m-1" title="Borrar entrada" @onclick="@(()=>OnConfirmDelete(item.Albaran, item.IdEntrada))"><i class="fa-solid fa-trash-can fa-lg"></i></button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <nav aria-label="Page navigation" class="m-4">
+                <ul class="pagination justify-content-center">
+                    @for (int i = 1; i <= TotalPages; i++)
+                    {
+                        var pageNumber = i;
+                        <li class="page-item @(pageNumber == PageIndex ? "active" : "")">
+                            <button class=" btn btn-secondary m-1" @onclick="(() => ChangePage(pageNumber))">@pageNumber</button>
+                        </li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+

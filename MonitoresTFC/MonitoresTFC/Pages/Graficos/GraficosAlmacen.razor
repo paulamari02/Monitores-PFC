@@ -1,0 +1,24 @@
+﻿@page "/graficosAlmacen"
+@inject IRepository rep
+@inject NavigationManager Nav
+
+<MonitorsHeader Title="Monitores" Title2="GRÁFICOS ALMACÉN"></MonitorsHeader>
+
+<div class="container-fluid mx-3 overflow-hidden">
+    <div class="row">
+        <div class="col-10">
+            <button onclick="@GoMenu" type="button" class="btn btn-secondary" title="Volver al menú">
+                <i class="fa-solid fa-bars fa-lg"></i>
+                Menú
+            </button>
+        </div>
+    </div>
+</div>
+<div class="row m chart-container">
+    <div class="col-6">
+        <Chart Config="_barConfig"></Chart>
+    </div>
+    <div class="col-6">
+        <Chart Config="_radarConfig"></Chart>
+    </div>
+</div>

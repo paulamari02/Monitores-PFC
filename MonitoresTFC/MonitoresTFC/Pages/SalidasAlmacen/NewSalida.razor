@@ -1,0 +1,96 @@
+﻿@page "/newSalida"
+@inject IRepository rep
+@inject IJSRuntime JsInterop
+@inject NavigationManager Nav
+
+<MonitorsHeader Title="Monitores" Title2="NUEVA SALIDA DE ALMACÉN"></MonitorsHeader>
+
+<div class="container-fluid mx-3 overflow-hidden">
+    <div class="row">
+        <div class="col-10">
+            <button onclick="@GoBack" type="button" class="btn btn-secondary" title="Volver atrás">
+                <i class="fa-solid fa-arrow-left-long fa-lg"></i>
+            </button>
+            <button onclick="@GoMenu" type="button" class="btn btn-secondary" title="Volver al menú">
+                <i class="fa-solid fa-bars fa-lg"></i>
+                Menú
+            </button>
+        </div>
+    </div>
+</div>
+<form>
+    <!--Albaran-->
+    <div class="row center3 mt-5">
+        <div class="form-group col-md-6">
+            <label for="inputAlbaran">Albarán</label>
+            <input type="text" @bind-value="@NewAlbaran" class="form-control" id="inputAlbaran" required>
+        </div>
+    </div>
+
+    <!--Proveedor y Fecha de salida-->
+    <div class="row center3 mt-2">
+        <div class="form-group col-md-3">
+            <label for="inputProveedor">Proveedor</label>
+            <select class="form-select" @bind="@NewProveedor" id="inputProveedor" required>
+                <option selected value="">Selecciona un proveedor</option>
+                @foreach (var items in Listadoproveedores)
+                {
+                    <option value="@items.IdProveedor">@items.Nombre</option>
+                }
+            </select>
+        </div>
+        <div class="form-group col-md-3">
+            <label for="inputFechaSalida">Fecha de salida</label>
+            <input type="date" @bind-value="@NewFechaSalida" class="form-control" id="inputFechaSalida" required>
+        </div>
+    </div>
+
+    <!--Estado y Articulo-->
+    <div class="row center3 mt-2">
+        <div class="form-group col-md-3">
+            <label for="inputEstado">Estado</label>
+            <select class="form-select" @bind="@NewEstado" id="inputEstado">
+                <option selected disabled value="">Selecciona un estado</option>
+                <option value="Almacenado">Almacenado</option>
+                <option value="Tránsito">Tránsito</option>
+                <option value="Pendiente">Pendiente</option>
+            </select>
+         </div>
+        <div class="form-group col-md-3">
+            <label for="inputArticulo">Artículo</label>
+            <select class="form-select" @bind="@NewArticulo" id="inputArticulo" required>
+                <option selected value="">Selecciona un artículo</option>
+                @foreach (var items in Listadoarticulos)
+                {
+                    <option value="@items.IdArticulo">@items.Articulo</option>
+                }
+            </select>
+        </div>
+    </div>
+
+    <!--Bultos y Cantidad-->
+    <div class= "row center3 mt-2">
+        <div class="form-group col-md-3">
+            <label for="inputCantidad">Cantidad</label>
+            <input type="text" @bind-value="@NewCantidad" class="form-control" id="inputCantidad" required>
+        </div>
+        <div class="form-group col-md-3">
+            <label for="inputBultos">Bultos</label>
+            <input type="text" @bind-value="@NewBultos" class="form-control" id="inputBultos" required>
+        </div>
+    </div>
+
+    <!--Check y Botón-->
+    <div class="row center3 mt-3">
+        <div class="form-group form-check col-md-2">
+            <input type="checkbox" class="form-check-input" id="gridCheck" @bind="@Checked" required>
+            <label class="form-check-label" for="gridCheck">Aceptar los términos y condiciones</label>
+        </div>
+        <div class="col-md-2">
+            <button type="submit" onclick="@AddSalida" class="btn btn-secondary">Guardar</button>
+        </div>
+        <label class="ml-1 mt-3 text-center">
+            @Missatge
+        </label>
+    </div>
+</form>

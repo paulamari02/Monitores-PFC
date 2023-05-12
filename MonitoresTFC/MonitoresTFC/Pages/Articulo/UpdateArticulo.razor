@@ -1,0 +1,73 @@
+﻿@page "/updateArticulo/{id}"
+@inject IRepository rep
+@inject IJSRuntime JsInterop
+@inject NavigationManager Nav
+
+<MonitorsHeader Title="Monitores" Title2="EDITAR ARTÍCULO"></MonitorsHeader>
+
+<div class="container-fluid mx-3 overflow-hidden">
+    <div class="row">
+        <div class="col-10">
+            <button onclick="@GoBack" type="button" class="btn btn-secondary" title="Volver atrás">
+                <i class="fa-solid fa-arrow-left-long fa-lg"></i>
+            </button>
+            <button onclick="@GoMenu" type="button" class="btn btn-secondary" title="Volver al menú">
+                <i class="fa-solid fa-bars fa-lg"></i>
+                Menú
+            </button>
+        </div>
+    </div>
+</div>
+<form>
+    <!--Artículo y Código de Artículo-->
+    <div class="row center3 mt-5">
+        <div class="form-group col-md-4">
+            <label for="inputArticulo">Artículo</label>
+            <input type="text" @bind-value="@UpdateArticulos" class="form-control" id="inputArticulo" required>
+        </div>
+        <div class="form-group col-md-3">
+            <label for="inputCodigoArticulo">Código de Artículo</label>
+            <input type="text" @bind-value="@UpdateCodigoArticulo" class="form-control" id="inputCodigoArticulo" required>
+        </div>
+    </div>
+
+    <!--Proveedor y Status-->
+    <div class="row center3 mt-2">
+        <div class="form-group col-md-4">
+            <label for="inputProveedor">Proveedor</label>
+            <select class="form-select" @bind="@UpdateProveedor" id="inputProveedor" required>
+                <option selected disabled value="">Selecciona un proveedor</option>
+                @foreach (var items in Listadoproveedores)
+                {
+                    <option value="@items.IdProveedor">@items.Nombre</option>
+                }
+            </select>
+        </div>
+        <div class="form-group col-md-3">
+            <label for="inputStatus">Status</label>
+            <select class="form-control" @bind="@UpdateStatus" id="inputStatus">
+                <option value="Disponible">Disponible</option>
+                <option value="Agotado">Agotado</option>
+                <option value="Descatalogado">Descatalogado</option>
+            </select>
+        </div>
+    </div>
+
+    <!--Observaciones-->
+    <div class="row center3 mt-2">
+        <div class="form-group col-md-7 mt-2">
+            <label for="inputObv">Observaciones</label>
+            <input type="text" @bind-value="@UpdateObservaciones" class="form-control" id="inputObv">
+        </div>
+    </div>
+
+    <!--Botón-->
+    <div class="row center3 mt-3">
+        <div class="col-1">
+            <button type="submit" onclick="@UpdateArticle" class="btn btn-secondary">Modificar</button>
+        </div>
+        <label class="ml-1 mt-3 text-center">
+            @Missatge
+        </label>
+    </div>
+</form>

@@ -1,0 +1,72 @@
+﻿@page "/updateProveedor/{id}"
+@inject IRepository rep
+@inject IJSRuntime JsInterop
+@inject NavigationManager Nav
+
+<MonitorsHeader Title="Monitores" Title2="EDITAR PROVEEDOR"></MonitorsHeader>
+
+<div class="container-fluid mx-3 overflow-hidden">
+    <div class="row">
+        <div class="col-10">
+            <button onclick="@GoBack" type="button" class="btn btn-secondary" title="Volver atrás">
+                <i class="fa-solid fa-arrow-left-long fa-lg"></i>
+            </button>
+            <button onclick="@GoMenu" type="button" class="btn btn-secondary" title="Volver al menú">
+                <i class="fa-solid fa-bars fa-lg"></i>
+                Menú
+            </button>
+        </div>
+    </div>
+</div>
+<form>
+    <!--Nombre, NumFiscal y Telefono-->
+    <div class="row center3 mt-5">
+        <div class="form-group col-md-3">
+            <label for="inputName">Nombre</label>
+            <input type="text" @bind-value="@UpdateNombre" class="form-control" id="inputName" required>
+        </div>
+        <div class="form-group col-md-2">
+            <label for="inputNumFiscal">Num. Fiscal</label>
+            <input type="text" @bind-value="@UpdateNumFiscal" class="form-control" id="inputNumFiscal" required>
+        </div>
+        <div class="form-group col-md-2">
+            <label for="inputPhone">Teléfono</label>
+            <input type="text" @bind-value="@UpdateTelefono" class="form-control" id="inputPhone" required>
+        </div>
+    </div>
+
+    <!--Direccion, Código Postal y Email-->
+    <div class="row center3 mt-2">
+        <div class="form-group col-md-3">
+            <label for="inputDireccion">Dirección</label>
+            <input type="text" @bind-value="@UpdateDireccion" class="form-control" id="inputDireccion" required>
+        </div>
+        <div class="form-group col-md-3">
+            <label for="inputEmail">Email</label>
+            <input type="email" @bind-value="@UpdateEmail" class="form-control" id="inputEmail" required>
+        </div>
+        <div class="form-group col-md-1">
+            <label for="inputCP">Código Postal</label>
+            <input type="text" @bind-value="@UpdateCodigoPostal" class="form-control" id="inputCP" required>
+        </div>
+    </div>
+
+    <!--Observaciones-->
+    <div class="row center3 mt-2">
+        <div class="form-group col-md-7 mt-2">
+            <label for="inputObv">Observaciones</label>
+            <input type="text" @bind-value="@UpdateObservaciones" class="form-control" id="inputObv">
+        </div>
+    </div>
+
+    <!--Botón-->
+    <div class="row center3 mt-3">
+        <div class="col-1">
+            <button type="submit" onclick="@UpdateProveedors" class="btn btn-secondary">Modificar</button>
+        </div>
+        <label class="ml-1 mt-3 text-center">
+            @Missatge
+        </label>
+    </div>
+</form>
+

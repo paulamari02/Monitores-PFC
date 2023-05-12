@@ -1,0 +1,865 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MonitoresTFC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MonitoresTFC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\bootstrap\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\all.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\all.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\all.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\brands.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\brands.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\brands.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\regular.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\regular.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\regular.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\solid.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\solid.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\solid.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\v4-shims.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\fontawesome\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\images\\logoExcello.png",
+      "PackagePath": "staticwebassets\\images\\logoExcello.png"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\all.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\all.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\all.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\all.min.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\brands.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\brands.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\brands.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\fontawesome.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\regular.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\regular.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\regular.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\solid.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\solid.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\solid.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\v4-shims.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\wwwroot\\js\\fontawesome\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\scss\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap.sass\\5.2.3\\contentFiles\\any\\any\\wwwroot\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\paula.mari\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js",
+      "PackagePath": "staticwebassets\\ChartJsBlazorInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MonitoresTFC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MonitoresTFC.props",
+      "PackagePath": "build\\MonitoresTFC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MonitoresTFC.props",
+      "PackagePath": "buildMultiTargeting\\MonitoresTFC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MonitoresTFC.props",
+      "PackagePath": "buildTransitive\\MonitoresTFC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

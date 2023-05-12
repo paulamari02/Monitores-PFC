@@ -1,0 +1,74 @@
+﻿@page "/updatePedido/{id}"
+@inject IRepository rep
+@inject IJSRuntime JsInterop
+@inject NavigationManager Nav
+
+<MonitorsHeader Title="Monitores" Title2="EDITAR PEDIDO"></MonitorsHeader>
+<div class="container-fluid mx-3 overflow-hidden">
+    <div class="row">
+        <div class="col-10">
+            <button onclick="@GoBack" type="button" class="btn btn-secondary" title="Volver atrás">
+                <i class="fa-solid fa-arrow-left-long fa-lg"></i>
+            </button>
+            <button onclick="@GoMenu" type="button" class="btn btn-secondary" title="Volver al menú">
+                <i class="fa-solid fa-bars fa-lg"></i>
+                Menú
+            </button>
+        </div>
+    </div>
+</div>
+<form>
+    <!--Nombre, Cliente-->
+    <div class="row center3 mt-5">
+        <div class="form-group col-md-4">
+            <label for="inputNombre">Nombre</label>
+            <input type="text" @bind-value="@UpdateNombre" class="form-control" id="inputNombre" required>
+        </div>
+        <div class="form-group col-md-4">
+            <label for="inputCliente">Cliente</label>
+            <select class="form-select" @bind="@UpdateCliente" id="inputCliente" required>
+                <option selected disabled value="">Selecciona un cliente</option>
+                @foreach (var items in Listadoclientes)
+                {
+                    <option value="@items.IdCliente">@items.Nombre</option>
+                }
+            </select>
+        </div>
+    </div>
+
+    <!--Status Pedido, Fecha Pedido-->
+    <div class="row center3 mt-2">
+        <div class="form-group col-md-4">
+            <label for="inputStatusPedido">Status Pedido</label>
+            <select class="form-select" @bind="@UpdateStatus" id="inputStatusPedido" required>
+                <option selected disabled value="">Selecciona un status</option>
+                <option value="Terminado">Terminado</option>
+                <option value="En Proceso">En Proceso</option>
+                <option value="Cancelado">Cancelado</option>
+            </select>
+        </div>
+        <div class="form-group col-md-4">
+            <label for="inputFechaPedido">Fecha Pedido</label>
+            <input type="date" @bind-value="@UpdateFechaPedido" class="form-control" id="inputFechaPedido" required>
+        </div>
+    </div>
+
+    <!--Descripcion-->
+    <div class="row center3 mt-2">
+        <div class="form-group col-md-8">
+            <label for="inputDescripcion">Descripción</label>
+            <input type="text" @bind-value="@UpdateDescripcion" class="form-control" id="inputDescripcion">
+        </div>
+    </div>
+
+    <!--Botón-->
+    <div class="row center3 mt-3">
+       
+        <div class="col-1">
+            <button type="submit" onclick="@UpdatePedidos" class="btn btn-secondary">Modificar</button>
+        </div>
+        <label class="ml-1 mt-3 text-center">
+            @Missatge
+        </label>
+    </div>
+</form>
