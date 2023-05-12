@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k4QhQYZ5LuITKmjOEP+vvaTkpSfOgzRnxeUdNC/TfiNcnzOsFyoRmIZ6YuxNq39BH5Hea3DXALkC79ngGpM4EA==",
+  "dgSpecHash": "Mk18hE2RW0trJBK+imbUBfPmX8fkpkjAK24+eZZDngi679B0ddBWODMjAq+HlNxD9awLAhExWUjiTk6s3Fmsyg==",
   "success": true,
-  "projectFilePath": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\MonitoresTFC.csproj",
+  "projectFilePath": "C:\\Users\\paula.mari\\Source\\Repos\\Monitores-PFC\\MonitoresTFC\\MonitoresTFC\\MonitoresTFC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paula.mari\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\paula.mari\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

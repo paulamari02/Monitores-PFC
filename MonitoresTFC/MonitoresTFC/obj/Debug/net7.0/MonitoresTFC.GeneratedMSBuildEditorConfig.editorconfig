@@ -9,133 +9,133 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MonitoresTFC
 build_property.RootNamespace = MonitoresTFC
-build_property.ProjectDir = C:\Desarrollo\MonitoresTFC\MonitoresTFC\
+build_property.ProjectDir = C:\Users\paula.mari\Source\Repos\Monitores-PFC\MonitoresTFC\MonitoresTFC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Desarrollo\MonitoresTFC\MonitoresTFC
+build_property.MSBuildProjectDirectory = C:\Users\paula.mari\Source\Repos\Monitores-PFC\MonitoresTFC\MonitoresTFC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/App.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Components/MenuHome.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Components/MenuHome.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNZW51SG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Components/ModalDialog.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Components/ModalDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2RhbERpYWxvZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Components/MonitorsHeader.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Components/MonitorsHeader.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb25pdG9yc0hlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Articulo/ListadoArticulos.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Articulo/ListadoArticulos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWN1bG9cTGlzdGFkb0FydGljdWxvcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Articulo/NewArticulo.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Articulo/NewArticulo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWN1bG9cTmV3QXJ0aWN1bG8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Articulo/UpdateArticulo.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Articulo/UpdateArticulo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWN1bG9cVXBkYXRlQXJ0aWN1bG8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Cliente/ListadoClientes.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Cliente/ListadoClientes.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxMaXN0YWRvQ2xpZW50ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Cliente/NewCliente.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Cliente/NewCliente.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxOZXdDbGllbnRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Cliente/UpdateCliente.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Cliente/UpdateCliente.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxVcGRhdGVDbGllbnRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/EntradasAlmacen/ListadoEntradaAlmacen.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/EntradasAlmacen/ListadoEntradaAlmacen.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW50cmFkYXNBbG1hY2VuXExpc3RhZG9FbnRyYWRhQWxtYWNlbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/EntradasAlmacen/NewEntrada.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/EntradasAlmacen/NewEntrada.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW50cmFkYXNBbG1hY2VuXE5ld0VudHJhZGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/EntradasAlmacen/UpdateEntrada.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/EntradasAlmacen/UpdateEntrada.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW50cmFkYXNBbG1hY2VuXFVwZGF0ZUVudHJhZGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Graficos/GraficosAlmacen.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Graficos/GraficosAlmacen.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JhZmljb3NcR3JhZmljb3NBbG1hY2VuLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Graficos/GraficosPedidos.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Graficos/GraficosPedidos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JhZmljb3NcR3JhZmljb3NQZWRpZG9zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Home.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Pedidos/ListadoPedidos.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Pedidos/ListadoPedidos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVkaWRvc1xMaXN0YWRvUGVkaWRvcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Pedidos/NewPedido.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Pedidos/NewPedido.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVkaWRvc1xOZXdQZWRpZG8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Pedidos/UpdatePedido.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Pedidos/UpdatePedido.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVkaWRvc1xVcGRhdGVQZWRpZG8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Proveedor/ListadoProveedores.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Proveedor/ListadoProveedores.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvdmVlZG9yXExpc3RhZG9Qcm92ZWVkb3Jlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Proveedor/NewProveedor.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Proveedor/NewProveedor.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvdmVlZG9yXE5ld1Byb3ZlZWRvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Proveedor/UpdateProveedor.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Proveedor/UpdateProveedor.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvdmVlZG9yXFVwZGF0ZVByb3ZlZWRvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/SalidasAlmacen/ListadoSalidasAlmacen.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/SalidasAlmacen/ListadoSalidasAlmacen.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsaWRhc0FsbWFjZW5cTGlzdGFkb1NhbGlkYXNBbG1hY2VuLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/SalidasAlmacen/NewSalida.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/SalidasAlmacen/NewSalida.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsaWRhc0FsbWFjZW5cTmV3U2FsaWRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/SalidasAlmacen/UpdateSalidas.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/SalidasAlmacen/UpdateSalidas.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsaWRhc0FsbWFjZW5cVXBkYXRlU2FsaWRhcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Shared/TelerikLayout.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Shared/TelerikLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRlbGVyaWtMYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/_Imports.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Shared/MainLayout.razor]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-rm8qc8443r
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/Error.cshtml]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/_Host.cshtml]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desarrollo/MonitoresTFC/MonitoresTFC/Pages/_Layout.cshtml]
+[C:/Users/paula.mari/Source/Repos/Monitores-PFC/MonitoresTFC/MonitoresTFC/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

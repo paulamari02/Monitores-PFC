@@ -9498,11 +9498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\MonitoresTFC.csproj",
+      "projectUniqueName": "C:\\Users\\paula.mari\\Source\\Repos\\Monitores-PFC\\MonitoresTFC\\MonitoresTFC\\MonitoresTFC.csproj",
       "projectName": "MonitoresTFC",
-      "projectPath": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\MonitoresTFC.csproj",
+      "projectPath": "C:\\Users\\paula.mari\\Source\\Repos\\Monitores-PFC\\MonitoresTFC\\MonitoresTFC\\MonitoresTFC.csproj",
       "packagesPath": "C:\\Users\\paula.mari\\.nuget\\packages\\",
-      "outputPath": "C:\\Desarrollo\\MonitoresTFC\\MonitoresTFC\\obj\\",
+      "outputPath": "C:\\Users\\paula.mari\\Source\\Repos\\Monitores-PFC\\MonitoresTFC\\MonitoresTFC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paula.mari\\AppData\\Roaming\\NuGet\\NuGet.Config",
