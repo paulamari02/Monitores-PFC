@@ -1,0 +1,76 @@
+﻿body {
+    background-color: #e6e6e6;
+    overflow-x: hidden;
+    /*overflow-y: hidden;*/
+}
+
+.center3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconos {
+    margin: 1cm;
+    color: #8f8f8f;
+}
+
+.tituloTop {
+    font-family: Calibri, sans-serif;
+    margin-left: -5.5cm;
+}
+
+.titulo {
+    font-family: Calibri, sans-serif;
+    margin-top: 1cm;
+}
+
+.card {
+    border-left: 10px solid #00469B;
+}
+
+.card:hover {
+    border: 2px solid #00469B;
+    border-left: 10px solid #00469B;
+    opacity: 0.9;
+    background-color: #c5d4e6;
+    color:black;
+}
+
+.jumbotron {
+    background-color: #00469B;
+    color: white;
+    height: 100px;
+    text-align: center;
+    margin-bottom: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:0px !important;
+    width:100%;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.buscador{
+    width: 15rem;
+}
+
+.grafTarta{
+    width: 700px;
+    height: 600px;
+}
+
+.formulario{
+    margin-left: 8cm;
+}
+
+.chart-container {
+    margin-left: 20px;
+    margin-right: 25px;
+}
