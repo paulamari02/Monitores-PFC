@@ -11,8 +11,7 @@
   - [Arquitectura web](#arquitectura)  
 - [5. Estructura de la aplicación](#estructura)  				
   - [Recursos externos](#recursos)  
-- [6. Manual de despliegue](#despliegue)  				
- 
+  
 <a name="introduccion"></a>	
 ## 1. Introducción
 Este proyecto consiste en una aplicación web para facilitar el acceso a los datos almacenados en una base de datos para los empleados de la empresa. La aplicación incluye herramientas, como gráficos y tablas, para ayudar a los usuarios a encontrar la información que necesitan de una manera mas visual y les permitirá agregar y eliminar datos de la base de datos. El objetivo principal es mejorar la eficiencia de los empleados al proporcionarles una herramienta que facilite el acceso a la información almacenada, lo que les permitirá realizar su trabajo de manera más efectiva y eficiente.
