@@ -82,6 +82,3 @@ La estructura típica de un proyecto .NET Core:
 - `Chart.js`: libreria para los gráficos.
 - `LINQ` o Language Integrated Query: conjunto de herramientas de Microsoft para realizar todo tipo de consultas sobre distintas fuentes de datos. (NuGet)
 - `Entity Framework Core`: permite a los desarrolladores convertir sus estructuras de datos en clases para poder trabajar con esa información usando objetos de .NET. (NuGet)
-
-<a name="despliegue"></a>	
-## 6. Manual de despliegue
